@@ -9,7 +9,7 @@ There are 2 seperate Folders, **one is dvdrental(ImportingDB&Doing35analysis)** 
 
 and in **Second Folder : MyCRUDoperationsPYSCOPG2** : In this i Preformed Best Practices and correct tasks to Code SQL : I performed CRUD sql operations (Self tried) and also at the end i Performed : Usage of Context manager (with clause)
 
-------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------=
 dvdrental(ImportingDB&Doing35analysis) Folder:
 Jupyter Notebook containing 40+ questions for practicing your PostgreSQL skills in Python. Also contains a notebook with all the answers for your reference. 
 The questions involve basic select, advanced select, aggregations and basic joins.
