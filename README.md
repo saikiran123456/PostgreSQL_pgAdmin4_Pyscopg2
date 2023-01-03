@@ -1,13 +1,13 @@
 # PostgreSQL_pgAdmin4_Pyscopg2
 ## PostgreSQL-Python-Practice-QnA with Screen Shots for Better Understanding (Layman Terms)
 
-**In pgAdmin4(Installation,CRUD,ImportExport)  Folder**
+**1. pgAdmin4(Installation,CRUD,ImportExport)  Folder**
 You will get everything related to Workbenceh SQL Alalysis (Starting from Installation of postgreSQL and pgAdmin4 interface till doing SQL analysis and Importing, Exporting, backup and restore Databases)
 
-**In Python+PosrgreSQLconnection  FOLDER**
+**2. Python+PosrgreSQLconnection  FOLDER**
 There are 2 seperate Folders, **one is dvdrental(ImportingDB&Doing35analysis)** : Here i performed Data Analysis for more that 40+ KPIs using pyscopg2 python package.
 
-and in **Second Folder : MyCRUDoperationsPYSCOPG2** : In this i Preformed Best Practices and correct tasks to Code SQL : I performed CRUD sql operations (Self tried) and also at the end i Performed : Usage of Context manager (with clause)
+**3. MyCRUDoperationsPYSCOPG2** : In this i Preformed Best Practices and correct tasks to Code SQL : I performed CRUD sql operations (Self tried) and also at the end i Performed : Usage of Context manager (with clause)
 
 ----------------------------------------------------------------------------------=
 dvdrental(ImportingDB&Doing35analysis) Folder:
