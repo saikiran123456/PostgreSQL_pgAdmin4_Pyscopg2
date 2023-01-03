@@ -1,4 +1,4 @@
-# postgreSQL_pgAdmin4_Pyscopg2
+# PostgreSQL_pgAdmin4_Pyscopg2
 ## PostgreSQL-Python-Practice-QnA with Screen Shots for Better Understanding (Layman Terms)
 
 **In pgAdmin4(Installation,CRUD,ImportExport)  Folder**
