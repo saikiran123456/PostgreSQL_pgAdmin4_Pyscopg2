@@ -1,5 +1,5 @@
 # postgreSQL_pgAdmin4_Pyscopg2
-# PostgreSQL-Python-Practice-Questions with Screen Shots for Better Understanding (Layman Terms)
+## PostgreSQL-Python-Practice-QnA with Screen Shots for Better Understanding (Layman Terms)
 
 **In pgAdmin4(Installation,CRUD,ImportExport)  Folder**
 You will get everything related to Workbenceh SQL Alalysis (Starting from Installation of postgreSQL and pgAdmin4 interface till doing SQL analysis and Importing, Exporting, backup and restore Databases)
