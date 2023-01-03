@@ -18,6 +18,7 @@ The questions involve basic select, advanced select, aggregations and basic join
 The questions in the Notebook closely follow the Hackerrank SQL questions progression, but the database and servers here are different.  
 <br>
 <br>
+--------------------------------------------------------------------------------------------------
 **NOTE: Please place all the files including the images in the same folder as the Notebook needs access to these images.**
 <br>
 <br>
