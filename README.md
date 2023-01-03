@@ -21,4 +21,4 @@ The questions I took from Hackerrank SQL questions progression, but the database
 **NOTE: Please place all the files including the images in the same folder as the Notebook needs access to these images.**
 <br>
 <br>
-**For detailed instructions on how to get started on PostgreSQL, please refer to the articles on my website:**
+**For detailed instructions on how to get started on PostgreSQL, please refer to the articles on my Medium website:**
